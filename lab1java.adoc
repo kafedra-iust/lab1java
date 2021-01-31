@@ -326,6 +326,4 @@ public class InOutExample {
 
 ----
 
-== Варіанти завдань
-
 image::pic/tasks.png[]
