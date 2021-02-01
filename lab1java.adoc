@@ -326,4 +326,5 @@ public class InOutExample {
 
 ----
 
-image::pic/tasks.png[]
+
+image::pic/tasks1.png[]
